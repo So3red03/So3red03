@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanh Huy
+# 👋 Hi, I'm Thanh Huy (Daniel)
 
 ![Fullstack](https://img.shields.io/badge/Role-Fullstack%20Developer-blue)
 ![Backend Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Business%20Logic-green)
