@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-thanhhuy.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:huy49224@gmail.com)
+[![Email](https://img.shields.io/badge/Email-huy49224%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:huy49224@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanh%20Huy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielthanhhuy)
 
 ---
